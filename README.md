@@ -45,11 +45,17 @@ By solving this problem, we can help companies make informed decisions on pricin
 
 ## Conclusions
 ```
-Mobile phones are available in 4 different price ranges with a roughly equal number of devices in each range.
-Half of the phones have Bluetooth capability, while the other half do not.
-As the price range increases, there is a gradual increase in battery life.
-RAM performance shows a continuous increase as the price range moves from low cost to very high cost.
-More expensive phones tend to be lighter in weight.
-The significant factors affecting the price range of mobile phones include RAM, battery power, and pixel quality.
-Both logistic regression and XGboosting yielded the best results when using hyperparameters.
+1. Mobile phones are available in 4 different price ranges with a roughly equal number of devices in each range.
+
+2. Half of the phones have Bluetooth capability, while the other half do not.
+
+3. As the price range increases, there is a gradual increase in battery life.
+
+4. RAM performance shows a continuous increase as the price range moves from low cost to very high cost.
+
+5. More expensive phones tend to be lighter in weight.
+
+6. The significant factors affecting the price range of mobile phones include RAM, battery power, and pixel quality.
+
+7. Both logistic regression and XGboosting yielded the best results when using hyperparameters.
 ```
